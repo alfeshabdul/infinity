@@ -1,7 +1,11 @@
-/*--------head------------*/
+@font-face{
+  font-family: "BerkshireSwash-Regular";
+  src: url(../../BerkshireSwash-Regular.ttf);
+}
+*--------head------------*/
 .head {
   padding: 20px 0;
-  color: #fff;
+  color: #FFFFF0;
 }
 .logo h1 {
   font-size: 35px;
@@ -26,17 +30,18 @@ header ul {
   padding: 30px 20px;
 }
 header ul li a {
-  color: #fff;
+  color: #FFFFF0;
   font-weight: 500;
   transition: 0.5s;
 }
 header ul li a:hover {
-  color: #1eb2a6;
+  color: #5c3905;
 }
 .start {
-  background-color: #1eb2a6;
+  background-color: #FFFFF0;
   padding: 30px 70px;
-  color: #fff;
+  font-family: "BerkshireSwash-Regular";
+  color: #5c3905;
   clip-path: polygon(10% 0%, 100% 0, 100% 100%, 0% 100%);
 }
 .toggle {
@@ -49,7 +54,7 @@ header ul li a:hover {
   }
   header {
     margin: 0;
-    background-color: #1eb2a6;
+    background-color: #FFFFF0;
     position: relative;
   }
   header ul.flexSB {
@@ -72,6 +77,14 @@ header ul li a:hover {
     top: 7vh;
     left: 0;
     width: 100%;
-    background-color: #1eb2a6;
+    background-color: #FFFFF0;
   }
+}
+
+
+
+
+
+.cl{
+  color:#5c3905;
 }

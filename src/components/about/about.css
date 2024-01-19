@@ -17,7 +17,7 @@
   margin-top: 50px;
 }
 .aboutHome .item {
-  background-color: #fff;
+  background-color: #FFFFF0;
   margin-top: 30px;
   padding: 20px;
   transition: 0.5s;
@@ -37,7 +37,7 @@
   color: #999999;
 }
 .aboutHome .item:hover {
-  background-color: #1eb2a6;
+  background-color: #d6a66f;
   color: #fff;
   cursor: pointer;
   box-shadow: 0 5px 25px -2px rgb(0 0 0 / 6%);

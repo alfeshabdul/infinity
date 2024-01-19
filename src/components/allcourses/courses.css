@@ -1,6 +1,10 @@
 .cl{
   color:#5c3905;
 }
+.cl-heading{
+  color:#5c3905;
+  font-size: 40px;
+}
 .coursesCard {
   padding: 50px 0;
 }

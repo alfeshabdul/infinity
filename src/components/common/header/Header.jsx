@@ -10,10 +10,10 @@ const Header = () => {
     <>
       <Head />
       <header>
-        <nav className='flexSB'>
+        <nav className='flexSB '>
           <ul className={click ? "mobile-nav" : "flexSB "} onClick={() => setClick(false)}>
-            <li>
-              <Link to='/'>Home</Link>
+            <li className="cl">
+              <Link  to='/'>Home</Link>
             </li>
             <li>
               <Link to='/courses'>Courses</Link>

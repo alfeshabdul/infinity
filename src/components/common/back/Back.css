@@ -1,5 +1,12 @@
+@font-face{
+    font-family: "BerkshireSwash-Regular";
+    src: url(../../BerkshireSwash-Regular.ttf);
+}
+.back-style{
+    font-size: 44px;
+    color:#5c3905;
+    font-family: "BerkshireSwash-Regular";
+}
 .cl{
     color:#5c3905;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
 }
