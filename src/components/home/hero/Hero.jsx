@@ -8,7 +8,7 @@ const Hero = () => {
       <section className='hero'>
         <div className='container'>
           <div className='row ml-100'>
-            <Heading subtitle='WELCOME TO INFINITY' title='Infinity The Language Institute' />
+            <Heading subtitle='WELCOME TO THE INFINITY' title='Infinity The Language Institute' />
             <p>Your Gateway to English Excellence in Bhopal</p>
             <div className='button'>
               
